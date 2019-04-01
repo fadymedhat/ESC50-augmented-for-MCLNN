@@ -1,0 +1,21 @@
+{
+  "sandbox": {
+    "muda": {
+      "state": [], 
+      "version": {
+        "librosa": "0.4.2",
+        "muda": "0.1.1",
+        "jams": "0.2.1"
+      },
+      "history": []
+    }
+  },
+  "file_metadata": {
+    "jams_version": "0.2.1",
+    "title": "XXXXXXX.wav",
+    "identifiers": {},
+    "release": "1.0",
+    "duration": 0,
+    "artist": "esc"
+  }
+}
